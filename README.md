@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Dr. Ricardo Erazo
+- 👋 Hi, I’m Dr. Ricardo
 - 👀 I’m a PhD in neuroscience with focus on computational neuroscience, my expertise includes biophysical modelings, analytical math, neuronal networks, biophysical rhythms (heart, breathing, walking)
 - 🌱 I’m an expert on inferential statistical methods, mathematical physical and biophysical modeling, data analysis and visualization, and AI: machine learning, NLP, LLMs
 - 💞️ I’m looking to collaborate on custom software development for neuroscientist with EXPERIMENTAL EXPERTISE who need to streamline systematized data analysis tailored to the EXPERIMENTAL METHOD and RESEARCH DESIGN.
